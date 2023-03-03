@@ -1,0 +1,4 @@
+{
+    "MOGOURI": "mongodb+srv://bookLibrary:<password>@cluster0.w6g52.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "secretkey" : "gmc"
+  }
